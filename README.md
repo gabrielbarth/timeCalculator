@@ -13,7 +13,7 @@ Referência: https://www.calculadora-online.xyz/calculadora-horario.php
 ```diff
 # english
 ```
-Mobile aplication to calculate addition and subtraction about hours, minutes and seconds.
+Mobile application to calculate addition and subtraction about hours, minutes and seconds.
 <br>
 Reference: https://www.calculadora-online.xyz/calculadora-horario.php
 
